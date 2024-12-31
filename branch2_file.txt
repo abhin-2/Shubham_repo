@@ -1,2 +1,3 @@
 branch2
 added local commit from branch2
+added second commit from switch
